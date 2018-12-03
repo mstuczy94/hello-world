@@ -1,4 +1,4 @@
 # hello-world
-Projects
+I am the man.
 
 Learning how to make some fun projects!
